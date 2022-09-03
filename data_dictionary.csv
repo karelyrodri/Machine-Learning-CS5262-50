@@ -1,0 +1,14 @@
+﻿Feauture,Description
+,
+Loan_Amount,Current owed amount on the loan. Represented as an integer  
+Credit_Score,Current credit Score. Represented as an integer
+Annual_Income,Total annual income. Represented as an integer
+Monthly_Debt,Monthly amount owed in bills seperate from loans and credit. Represented as a float
+Years_of_Credit_History,Number of years with credit history. Represented as a float. 
+Credit_Cards_Balance,Current owed amount on all credit cards. Represented as an integer  
+Credit_Cards_Limit,Total credit card limit. Represented as an integer
+Interest_Rate,Interest rate applied to loan and credit debt. Represented as a float 
+Term,"Loan Term Length. Categorical value [1 year, 3 year, 5 year, 7 year, 10 year, 15 year, 30 year] "
+Home_Ownership,"Current home ownership status. Categorical value  [Rent, Home Mortgage, Home Owner]"
+Purpose,"The purpose for needing the loan. Categorical value  [Home Improvements, Business Loan, Car Loan, Home Loan, Medical Bills, Educational Expenses]"
+Years_in_Current_Job ,"Length of employment at current job.  Categorical value [1 Year or Less, 2 - 4 years, 5 - 7 years, 8 - 9 years, 10+ years]"
