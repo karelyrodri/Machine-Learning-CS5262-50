@@ -1,5 +1,4 @@
 ﻿Feauture,Description
-,
 Loan_Amount,Current owed amount on the loan. Represented as an integer  
 Credit_Score,Current credit Score. Represented as an integer
 Annual_Income,Total annual income. Represented as an integer
