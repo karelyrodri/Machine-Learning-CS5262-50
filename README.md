@@ -74,3 +74,7 @@ Years in Current Job - [1 Year or Less, 2 - 4 years, 5 - 7 years, 8 - 9 years, 1
 Home Ownership - [Rent, Home Mortgage, Home Owner]
 
 Loan Purpose - [Home Improvements, Business Loan, Car Loan, Home Loan, Medical Bills, Educational Expenses]
+
+## Assignment 2 Comments
+- "Average Expected Loss = $157,095" is this the average loan + interest that a financial firm stands to gain/lose? I don't quite understand from the current description
+- Maybe add a note that if the customer doesn't pay back on time, although the firm experiences a short term loss of x amount, it should still recover at least a portion of it (depending on the loan type), whether via foreclosure methods, debt collectors, etc.
