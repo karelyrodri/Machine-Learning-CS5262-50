@@ -9,7 +9,7 @@ This is the probability an individal will be unable to repay their debt obligati
 
 The goal is to create a credit risk model that will determine the likelyhood the money borrower will fail or succeed to repay the amount agreed upon including interest within the agreed upon time frame. 
 The importance lies in maintaining maximum profit for the lender. With the model, an estimate will be calculated taking account the predicted risk to adjust the approximate profit figure.
-### Performance Metric .
+### Performance Metric 
 
 Average Expected Loss = $157,095   
 This includes loan/credit principle and accumalated interest over the term based on the calculated Compound Interest formula applied to the data points set to be at risk 
