@@ -35,8 +35,8 @@ True Negative: The record resulted as not a credit risk - 0  and was correctly p
 
 
 tp = records that failed to pay   
-fp = records that were expected to pay but failed to pay     
-fn = records that did pay
+fp = records that did pay   
+fn = records that were expected to pay but failed to pay 
 
 ## About the Data 
 Date is available at the following link:  https://docs.google.com/spreadsheets/d/1AvPiqVtKBoKFiX4h3uGFbWBty7ZhNt4FmWU6jrXhb8U/edit?usp=sharing
