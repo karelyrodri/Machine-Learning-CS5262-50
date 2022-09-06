@@ -15,7 +15,7 @@ Average Expected Loss = $157,095
 This includes loan/credit principle and accumalated interest over the term based on the calculated Compound Interest formula applied to the data points set to be at risk 
 
 Money Regained = $117,820    
-This cost is calculated at about an average of 75% of the unpaid loan amount is regained by the lender 
+This cost is calculated at about an average of 75% of the unpaid loan amount is regained by the lender    
 Some examples of how lenders regain money is through forclosures, debt collectors, short sales, etc.
 
 #### Confusion Matrix
