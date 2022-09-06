@@ -31,7 +31,7 @@ False Negative: The record resulted as a credit risk - 1 and was incorrectly pre
 
 True Negative: The record resulted as not a credit risk - 0  and was correctly predicted as not a credit risk - 0
  
-<img width="486" alt="Confusion Matrix - Business Costs" src="https://user-images.githubusercontent.com/106625643/188518359-47764831-9dd2-4f9a-bebd-e0841e6a87af.PNG">
+<img width="466" alt="Confusion Matrix - Business Costs" src="https://user-images.githubusercontent.com/106625643/188528927-682248db-333e-447d-8b65-6c3297b76a05.PNG">
 
 
 tp = records that failed to pay   
