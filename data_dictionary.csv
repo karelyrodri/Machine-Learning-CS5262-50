@@ -1,13 +1,35 @@
 ﻿Feauture,Description
-Loan_Amount,Current owed amount on the loan. Represented as an integer  
-Credit_Score,Current credit Score. Represented as an integer
+Loan_Amount,Current owed dollar amount on the loan. Represented as an integer  
+Credit_Score,Current credit score. Represented as an integer
 Annual_Income,Total annual income. Represented as an integer
 Monthly_Debt,Monthly amount owed in bills seperate from loans and credit. Represented as a float
-Years_of_Credit_History,Number of years with credit history. Represented as a float. 
-Credit_Cards_Balance,Current owed amount on all credit cards. Represented as an integer  
-Credit_Cards_Limit,Total credit card limit. Represented as an integer
+Years_of_Credit_History,Number of years of recorded credit history. Represented as a float. 
+Credit_Cards_Balance,Current owed dollar amount on all credit cards combined. Represented as an integer  
+Credit_Cards_Limit,Total credit card limit combing all credit cards. Represented as an integer
 Interest_Rate,Interest rate applied to loan and credit debt. Represented as a float 
-Term,"Loan Term Length. Categorical value [1 year, 3 year, 5 year, 7 year, 10 year, 15 year, 30 year] "
-Home_Ownership,"Current home ownership status. Categorical value  [Rent, Home Mortgage, Home Owner]"
-Purpose,"The purpose for needing the loan. Categorical value  [Home Improvements, Business Loan, Car Loan, Home Loan, Medical Bills, Educational Expenses]"
-Years_in_Current_Job ,"Length of employment at current job.  Categorical value [1 Year or Less, 2 - 4 years, 5 - 7 years, 8 - 9 years, 10+ years]"
+Term,Loan Term Length. Categorical values 1 -7
+,Value 1:   1 year
+,Value 2:   3 year
+,Value 3:   5  year
+,Value 4:   7 year
+,Value 5:  10 year
+,Value 6:  15 year
+,Value 7: 30 year
+Home_Ownership,Current home ownership status. Categorical values 1 - 3
+,Value 1:   Rent
+,Value 2:   Home Mortgage
+,Value 3:   Home Owner
+Purpose,The purpose for needing the loan. Categorical values 1 - 6
+,Value 1:   Home Improvements
+,Value 2:   Business Loan
+,Value 3:   Car Loan
+,Value 4:   Home Loan
+,Value 5:  Medical Bills
+,Value 6:  Educational Expenses
+Years_in_Current_Job ,Length of employment at current job.  Categorical values 1 - 5 
+,Value 1:   1 year or less
+,Value 2:   2 - 4 years
+,Value 3:   5 - 7 years
+,Value 4:   8 - 9 years
+,Value 5:  10+ years
+Credit_Risk,The predicted attribute. Determines if the record is a credit risk or is not a credit risk. Integer value (0 - Not a Credit Risk; 1 - Is a Credit Risk)
